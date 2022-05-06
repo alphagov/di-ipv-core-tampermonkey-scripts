@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         IPV Core - Knowlegde Based Verification (Stub)
-// @namespace    http://tampermonkey.net/
+// @namespace    http://gov.uk
 // @version      0.1
 // @description  Mocks out Knowlegde Based Verification (Stub)
 // @author       You
